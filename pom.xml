@@ -13,6 +13,8 @@
         <module>common-util</module>
         <module>restassured-api-client</module>
         <module>apache-api-client</module>
+        <module>api-annotation-processor</module>
+        <module>api-annotation</module>
     </modules>
 
     <properties>
